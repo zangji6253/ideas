@@ -6,3 +6,8 @@
 
 自己的博客系统
 
+v0.1 done
+
+## command_wechat
+
+微信终端版客户端
